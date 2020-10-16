@@ -1,2 +1,3 @@
+role,NetID,FamilyName,GivenName
 boss,khu54,Hu,Keyu
 employee,cjiang77,Jiang,Chenyang
